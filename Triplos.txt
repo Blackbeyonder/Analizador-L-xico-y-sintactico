@@ -1,0 +1,11 @@
+      Operador    | Dato Objeto |Dato Fuente
+1     =           | T1          | a          
+2     ==          | T1          | 1          
+3     TR1         | TRUE        | 5          
+4     TR1         | FALSE       | 9          
+5     =           | T1          | a          
+6     +           | T1          | c          
+7     =           | c           | T1         
+8     =           | T1          | d          
+9     *           | T1          | a          
+10    =           | c           | T1         

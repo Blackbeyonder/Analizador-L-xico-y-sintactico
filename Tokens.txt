@@ -1,0 +1,8 @@
+PReservadaINT VARA PReservada, VARB PReservada, VARC PReservada, VARD PReservada; 
+IF PReservada( VARA EQ NUM1 PReservada) PReservada{ 
+VARC PReservada= VARA PReservada+ VARC PReservada; 
+PReservada} 
+PReservadaELSE 
+VARC PReservada= VARD PReservada* VARA PReservada; 
+
+
